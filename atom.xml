@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wujinlunhui.com/"/>
-  <updated>2020-07-17T16:20:40.309Z</updated>
+  <updated>2020-07-20T00:58:47.241Z</updated>
   <id>https://wujinlunhui.com/</id>
   
   <author>
@@ -17,16 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test2</title>
-    <link href="https://wujinlunhui.com/2020/07/17/test2/"/>
-    <id>https://wujinlunhui.com/2020/07/17/test2/</id>
-    <published>2020-07-17T14:47:05.000Z</published>
-    <updated>2020-07-17T16:20:40.309Z</updated>
+    <title>sql注入</title>
+    <link href="https://wujinlunhui.com/2020/07/20/sql%E6%B3%A8%E5%85%A5/"/>
+    <id>https://wujinlunhui.com/2020/07/20/sql%E6%B3%A8%E5%85%A5/</id>
+    <published>2020-07-20T00:58:47.000Z</published>
+    <updated>2020-07-20T00:58:47.241Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;2222222222&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2020/07/17/test2/123.png&quot; alt&gt;&lt;/p&gt;
+      
+      
+        
+        
+          &lt;a
+        
+      
     
     </summary>
     
@@ -35,42 +40,26 @@
   </entry>
   
   <entry>
-    <title>test</title>
-    <link href="https://wujinlunhui.com/2020/07/17/test/"/>
-    <id>https://wujinlunhui.com/2020/07/17/test/</id>
-    <published>2020-07-17T13:27:21.479Z</published>
-    <updated>2020-07-17T14:35:03.809Z</updated>
+    <title>渗透测试</title>
+    <link href="https://wujinlunhui.com/2020/07/18/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+    <id>https://wujinlunhui.com/2020/07/18/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-07-18T14:58:58.000Z</published>
+    <updated>2020-07-19T14:59:16.828Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;1111111111111111111111111111&quot;&gt;&lt;a href=&quot;#1111111111111111111111111111&quot; class=&quot;headerlink&quot; title=&quot;1111111111111111111111111111&quot;&gt;&lt;/a&gt;1111111111111111111111111111&lt;/h3&gt;&lt;p&gt;11111111&lt;/p&gt;
+      &lt;h3 id=&quot;1-1-什么是渗透测试&quot;&gt;&lt;a href=&quot;#1-1-什么是渗透测试&quot; class=&quot;headerlink&quot; title=&quot;1.1 什么是渗透测试&quot;&gt;&lt;/a&gt;1.1 什么是渗透测试&lt;/h3&gt;&lt;p&gt;渗透测试（Penetration Testing）并没有一个标准的定义。简单来说就是通过模拟恶意黑客的攻击方法，来测试计算机网络安全的一种评估方法。这个过程包括对系统的任何弱点、技术缺陷或漏洞的主动分析，这个分析师从一个攻击者可能存在的位置来进行的，并且从这个位置有条件主动利用安全漏洞。&lt;/p&gt;
+&lt;h3 id=&quot;1-2-渗透测试分类&quot;&gt;&lt;a href=&quot;#1-2-渗透测试分类&quot; class=&quot;headerlink&quot; title=&quot;1.2 渗透测试分类&quot;&gt;&lt;/a&gt;1.2 渗透测试分类&lt;/h3&gt;&lt;p&gt;白盒测试：是指在完全了解结构的情况下进行测试。&lt;/p&gt;
+&lt;p&gt;黑盒测试：是指在对基础设施不知情的情况下进行测试。&lt;/p&gt;
+&lt;p&gt;灰盒测试：是指在了解一部分基础信息的情况下进行黑盒测试。&lt;/p&gt;
     
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://wujinlunhui.com/2020/07/17/hello-world/"/>
-    <id>https://wujinlunhui.com/2020/07/17/hello-world/</id>
-    <published>2020-07-16T17:32:14.198Z</published>
-    <updated>2020-07-16T17:32:14.198Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
+      <category term="web安全" scheme="https://wujinlunhui.com/categories/web%E5%AE%89%E5%85%A8/"/>
     
     
+      <category term="web安全" scheme="https://wujinlunhui.com/tags/web%E5%AE%89%E5%85%A8/"/>
     
   </entry>
   
