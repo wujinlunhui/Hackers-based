@@ -1,65 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LHWS&#39;Blog</title>
-  <icon>https://wujinlunhui.com/icon.png</icon>
+  <title>i01ortal&#39;Blog</title>
+  <icon>https://aizero.tk/icon.png</icon>
   <subtitle>Yushu dissolve faery deep, containing light mixed vulgar like centerless.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://wujinlunhui.com/"/>
-  <updated>2020-07-20T00:58:47.241Z</updated>
-  <id>https://wujinlunhui.com/</id>
+  <link href="https://aizero.tk/"/>
+  <updated>2020-12-09T08:10:12.763Z</updated>
+  <id>https://aizero.tk/</id>
   
   <author>
-    <name>LHWS</name>
+    <name>i01ortal</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>sql注入</title>
-    <link href="https://wujinlunhui.com/2020/07/20/sql%E6%B3%A8%E5%85%A5/"/>
-    <id>https://wujinlunhui.com/2020/07/20/sql%E6%B3%A8%E5%85%A5/</id>
-    <published>2020-07-20T00:58:47.000Z</published>
-    <updated>2020-07-20T00:58:47.241Z</updated>
+    <title>对于过去的一点总结</title>
+    <link href="https://aizero.tk/2020/12/09/%E5%AF%B9%E4%BA%8E%E8%BF%87%E5%8E%BB%E7%9A%84%E4%B8%80%E7%82%B9%E6%80%BB%E7%BB%93/"/>
+    <id>https://aizero.tk/2020/12/09/%E5%AF%B9%E4%BA%8E%E8%BF%87%E5%8E%BB%E7%9A%84%E4%B8%80%E7%82%B9%E6%80%BB%E7%BB%93/</id>
+    <published>2020-12-09T06:34:48.000Z</published>
+    <updated>2020-12-09T08:10:12.763Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;a
-        
-      
+      &lt;h2 id=&quot;时间&quot;&gt;&lt;a href=&quot;#时间&quot; class=&quot;headerlink&quot; title=&quot;时间&quot;&gt;&lt;/a&gt;时间&lt;/h2&gt;&lt;p&gt;一晃十多年过去，也开始明白这个世界的一些道理。回头望去，那个小孩子已经不是离家一周便抱着父亲哭鼻子的小孩，成长了太多。回想起当时，那真是一颗纯真毫无污染的心，只想成为一个科学家，在这人类的科技长河中做一个先驱者。可叹世事无常，也或许是冥冥之中万事万物自有其道路，要让你得到一些失去一些，走向未知。&lt;/p&gt;
+&lt;p&gt;长大的世界还真是色彩斑斓，却难得一见那纯白色的心。&lt;/p&gt;
+&lt;h2 id=&quot;那时&quot;&gt;&lt;a href=&quot;#那时&quot; class=&quot;headerlink&quot; title=&quot;那时&quot;&gt;&lt;/a&gt;那时&lt;/h2&gt;&lt;p&gt;云南之时的日子&lt;/p&gt;
+&lt;h2 id=&quot;记忆&quot;&gt;&lt;a href=&quot;#记忆&quot; class=&quot;headerlink&quot; title=&quot;记忆&quot;&gt;&lt;/a&gt;记忆&lt;/h2&gt;&lt;p&gt;贵州的日子&lt;/p&gt;
+&lt;h2 id=&quot;回忆&quot;&gt;&lt;a href=&quot;#回忆&quot; class=&quot;headerlink&quot; title=&quot;回忆&quot;&gt;&lt;/a&gt;回忆&lt;/h2&gt;&lt;p&gt;人生转折&lt;/p&gt;
+&lt;h2 id=&quot;也许&quot;&gt;&lt;a href=&quot;#也许&quot; class=&quot;headerlink&quot; title=&quot;也许&quot;&gt;&lt;/a&gt;也许&lt;/h2&gt;&lt;p&gt;大学&lt;/p&gt;
+&lt;h2 id=&quot;还好&quot;&gt;&lt;a href=&quot;#还好&quot; class=&quot;headerlink&quot; title=&quot;还好&quot;&gt;&lt;/a&gt;还好&lt;/h2&gt;&lt;p&gt;安全之路&lt;/p&gt;
+&lt;h2 id=&quot;剑之所指，心之所向&quot;&gt;&lt;a href=&quot;#剑之所指，心之所向&quot; class=&quot;headerlink&quot; title=&quot;剑之所指，心之所向&quot;&gt;&lt;/a&gt;剑之所指，心之所向&lt;/h2&gt;
     
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>渗透测试</title>
-    <link href="https://wujinlunhui.com/2020/07/18/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
-    <id>https://wujinlunhui.com/2020/07/18/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</id>
-    <published>2020-07-18T14:58:58.000Z</published>
-    <updated>2020-07-19T14:59:16.828Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;1-1-什么是渗透测试&quot;&gt;&lt;a href=&quot;#1-1-什么是渗透测试&quot; class=&quot;headerlink&quot; title=&quot;1.1 什么是渗透测试&quot;&gt;&lt;/a&gt;1.1 什么是渗透测试&lt;/h3&gt;&lt;p&gt;渗透测试（Penetration Testing）并没有一个标准的定义。简单来说就是通过模拟恶意黑客的攻击方法，来测试计算机网络安全的一种评估方法。这个过程包括对系统的任何弱点、技术缺陷或漏洞的主动分析，这个分析师从一个攻击者可能存在的位置来进行的，并且从这个位置有条件主动利用安全漏洞。&lt;/p&gt;
-&lt;h3 id=&quot;1-2-渗透测试分类&quot;&gt;&lt;a href=&quot;#1-2-渗透测试分类&quot; class=&quot;headerlink&quot; title=&quot;1.2 渗透测试分类&quot;&gt;&lt;/a&gt;1.2 渗透测试分类&lt;/h3&gt;&lt;p&gt;白盒测试：是指在完全了解结构的情况下进行测试。&lt;/p&gt;
-&lt;p&gt;黑盒测试：是指在对基础设施不知情的情况下进行测试。&lt;/p&gt;
-&lt;p&gt;灰盒测试：是指在了解一部分基础信息的情况下进行黑盒测试。&lt;/p&gt;
-    
-    </summary>
+      <category term="日志记录" scheme="https://aizero.tk/categories/%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95/"/>
     
     
-      <category term="web安全" scheme="https://wujinlunhui.com/categories/web%E5%AE%89%E5%85%A8/"/>
-    
-    
-      <category term="web安全" scheme="https://wujinlunhui.com/tags/web%E5%AE%89%E5%85%A8/"/>
+      <category term="日志" scheme="https://aizero.tk/tags/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   

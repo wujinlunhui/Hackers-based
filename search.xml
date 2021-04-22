@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>渗透测试</title>
-    <url>/2020/07/18/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h3 id="1-1-什么是渗透测试"><a href="#1-1-什么是渗透测试" class="headerlink" title="1.1 什么是渗透测试"></a>1.1 什么是渗透测试</h3><p>渗透测试（Penetration Testing）并没有一个标准的定义。简单来说就是通过模拟恶意黑客的攻击方法，来测试计算机网络安全的一种评估方法。这个过程包括对系统的任何弱点、技术缺陷或漏洞的主动分析，这个分析师从一个攻击者可能存在的位置来进行的，并且从这个位置有条件主动利用安全漏洞。</p>
-<h3 id="1-2-渗透测试分类"><a href="#1-2-渗透测试分类" class="headerlink" title="1.2 渗透测试分类"></a>1.2 渗透测试分类</h3><p>白盒测试：是指在完全了解结构的情况下进行测试。</p>
-<p>黑盒测试：是指在对基础设施不知情的情况下进行测试。</p>
-<p>灰盒测试：是指在了解一部分基础信息的情况下进行黑盒测试。</p>
-<a id="more"></a>
-
-<h3 id="1-3-渗透测试目的"><a href="#1-3-渗透测试目的" class="headerlink" title="1.3 渗透测试目的"></a>1.3 渗透测试目的</h3><p>了解入侵者可能利用的途径</p>
-<p>了解系统及网络的安全强度</p>
-]]></content>
+    <title>对于过去的一点总结</title>
+    <url>/2020/12/09/%E5%AF%B9%E4%BA%8E%E8%BF%87%E5%8E%BB%E7%9A%84%E4%B8%80%E7%82%B9%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h2 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h2><p>一晃十多年过去，也开始明白这个世界的一些道理。回头望去，那个小孩子已经不是离家一周便抱着父亲哭鼻子的小孩，成长了太多。回想起当时，那真是一颗纯真毫无污染的心，只想成为一个科学家，在这人类的科技长河中做一个先驱者。可叹世事无常，也或许是冥冥之中万事万物自有其道路，要让你得到一些失去一些，走向未知。</p>
+<p>长大的世界还真是色彩斑斓，却难得一见那纯白色的心。</p>
+<h2 id="那时"><a href="#那时" class="headerlink" title="那时"></a>那时</h2><p>云南之时的日子</p>
+<h2 id="记忆"><a href="#记忆" class="headerlink" title="记忆"></a>记忆</h2><p>贵州的日子</p>
+<h2 id="回忆"><a href="#回忆" class="headerlink" title="回忆"></a>回忆</h2><p>人生转折</p>
+<h2 id="也许"><a href="#也许" class="headerlink" title="也许"></a>也许</h2><p>大学</p>
+<h2 id="还好"><a href="#还好" class="headerlink" title="还好"></a>还好</h2><p>安全之路</p>
+<h2 id="剑之所指，心之所向"><a href="#剑之所指，心之所向" class="headerlink" title="剑之所指，心之所向"></a>剑之所指，心之所向</h2><a id="more"></a>]]></content>
       <categories>
-        <category>web安全</category>
+        <category>日志记录</category>
       </categories>
       <tags>
-        <tag>web安全</tag>
+        <tag>日志</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>sql注入</title>
-    <url>/2020/07/20/sql%E6%B3%A8%E5%85%A5/</url>
-    <content><![CDATA[<a id="more"></a>]]></content>
   </entry>
 </search>
